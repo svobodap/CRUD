@@ -942,7 +942,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">D:\jMeter\tests\viewResultinTable.csv</stringProp>
+        <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="StatGraphVisualizer" testclass="ResultCollector" testname="Aggregate Graph" enabled="true">
@@ -1008,7 +1008,7 @@
             <threadCounts>true</threadCounts>
           </value>
         </objProp>
-        <stringProp name="filename"></stringProp>
+        <stringProp name="filename">SummaryReport.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
